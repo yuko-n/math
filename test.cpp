@@ -1,5 +1,5 @@
 int main(){
-	ifstream file("C:/Users/yarob/Downloads/input.txt");
+	ifstream file("input.txt");
 	int size;
 	file >> size;
 	double**  matrix;
